@@ -1,1 +1,1 @@
-# Facrtorial con suma ejercicio
+# Factorial con suma ejercicio
